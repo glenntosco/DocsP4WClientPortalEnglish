@@ -68,8 +68,8 @@ The `OrderGroup` field controls how rows are grouped into orders:
 - Use any identifier (e.g. `order1`, `order2`, `A1`, `A2`) as long as the grouping is consistent.
 
 **Example:**
-- Rows with `orden1` → grouped into one order
-- Rows with `orden2` → grouped into a separate order
+- Rows with `order1` → grouped into one order
+- Rows with `order2` → grouped into a separate order
 
 ### Step by Step
 
